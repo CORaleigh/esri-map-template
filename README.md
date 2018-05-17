@@ -1,5 +1,15 @@
 # CorEsriMap
 
+ref: https://www.djamware.com/post/5afa31a780aca726dee1fd6c/getting-started-build-angular-6-web-application
+
+npm install -g @angular/cli
+ng add @angular/pwa
+ng update @angular/core
+npm i @angular/cdk@6.0.2
+ng add @angular/material
+npm install --save esri-loader
+npm install --save @types/arcgis-js-api
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
 ## Development server
